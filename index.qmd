@@ -1,7 +1,3 @@
----
-title: ""
----
-
 <head>
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
@@ -20,14 +16,14 @@ body {
 
 panagiotis togias
 
-erlich bachman's second cousin
+r; biomed
 
 <br>
 
-<a href="https://github.com/ptogias" target="_blank">github</a>
+[github](https://github.com/ptogias){target="_blank"}
 
 blog
 
-reading list
+[reading list](reading_list.qmd)
 
 </body>

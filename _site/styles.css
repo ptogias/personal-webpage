@@ -1,21 +1,33 @@
-/* css styles */
-
- a, a:hover, a:focus, a:active {
-      text-decoration: none;
-      color: inherit;
- }
-
-body {
-  text-align: center;
+/* Reset styles */
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+}
 
-/* Styling */
-
-div {
+/* Centering content */
+body, html {
+  height: 100%; /* Full height */
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
+div {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  max-width: 70%; /* Use a specific width or max-width here if needed */
+}
 
+/* Add a specific max-width to a container if needed, with a unit */
+.container {
+  max-width: 0%; /* Example: Limit content width, with a margin auto to center it */
+  margin: auto;
+}

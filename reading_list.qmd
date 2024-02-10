@@ -1,0 +1,29 @@
+<head>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+
+```{=html}
+<style>
+body {
+  font-family: "Source Code Pro", sans-serif;
+  background-color: #f0f0f0; 
+}
+</style>
+```
+</head>
+
+[the elements of statistical learning](https://hastie.su.domains/Papers/ESLII.pdf)
+
+[advanced r](https://adv-r.hadley.nz)
+
+[r inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+
+[r for data science](https://r4ds.hadley.nz)
+
+[the book of why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
+
+[to explain or to predict?](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf)
+
+<br>
+
+<em><a href="index.qmd">back</a></em>

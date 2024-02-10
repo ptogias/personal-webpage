@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "panagiotis togias",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "[1] the elements of statistical learning\n[2] advanced r\n[3] r inferno\n[4] r for data science: a book\n[5] intro to data table\n[6] the book of why\n[7] to explain or to predict?"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "panagiotis togias",
     "section": "",
-    "text": "panagiotis togias\ngets well with biomed data; can write decent r code\n\ngithub\nblog"
+    "text": "panagiotis togias\nr; biomed\n\ngithub\nblog\nreading list"
+  },
+  {
+    "objectID": "reading_list.html",
+    "href": "reading_list.html",
+    "title": "panagiotis togias",
+    "section": "",
+    "text": "the elements of statistical learning\nadvanced r\nr inferno\nr for data science\nthe book of why\nto explain or to predict?\n\nback"
   }
 ]
