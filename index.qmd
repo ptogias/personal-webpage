@@ -20,12 +20,14 @@ body {
 
 panagiotis togias
 
-Erlich Bachman's second cousin
+erlich bachman's second cousin
 
 <br>
 
 <a href="https://github.com/ptogias" target="_blank">github</a>
 
 blog
+
+reading list
 
 </body>
