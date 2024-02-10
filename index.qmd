@@ -1,0 +1,27 @@
+---
+title: ""
+---
+
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+<style>
+body {
+  font-family: "Source Code Pro", sans-serif;
+  background-color: #f0f0f0; 
+}
+</style>
+</head>
+
+<body>
+
+panagiotis togias
+
+gets well with biomed data; can write decent r code
+
+<br>
+
+<a href="https://github.com/ptogias" target="_blank">github</a>
+
+blog
+
+</body>

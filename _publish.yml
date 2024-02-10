@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: ad834d5d-e954-46fa-a7c3-433ef60bbed4
+      url: 'https://lucent-alpaca-06890d.netlify.app'

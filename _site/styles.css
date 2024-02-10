@@ -1,0 +1,21 @@
+/* css styles */
+
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+ }
+
+body {
+  text-align: center;
+}
+
+
+/* Styling */
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
