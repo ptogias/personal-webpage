@@ -3,20 +3,24 @@ title: ""
 ---
 
 <head>
+
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+
+```{=html}
 <style>
 body {
   font-family: "Source Code Pro", sans-serif;
   background-color: #f0f0f0; 
 }
 </style>
+```
 </head>
 
 <body>
 
 panagiotis togias
 
-gets well with biomed data; can write decent r code
+Erlich Bachman's second cousin
 
 <br>
 
