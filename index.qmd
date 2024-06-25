@@ -16,8 +16,6 @@ body {
 
 panagiotis togias
 
-> eat progress with both its peels and seeds - Odysseas Elytis
-
 <br>
 
 [github](https://github.com/ptogias){target="_blank"}
