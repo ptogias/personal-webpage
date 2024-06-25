@@ -14,20 +14,6 @@ body {
 
 <body>
 
-panagiotis togias
-
-r; biomed
-
-<br>
-
-[github](https://github.com/ptogias){target="_blank"}
-
-blog
-
-projects
-
-[reading list](reading_list.qmd)
-
-about
+soon
 
 </body>

@@ -24,6 +24,8 @@ body {
 
 [to explain or to predict?](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf)
 
+[what we’ve learned from a year of building with llms](https://applied-llms.org)
+
 <br>
 
 <em><a href="index.qmd">back</a></em>
