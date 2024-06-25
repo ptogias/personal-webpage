@@ -28,6 +28,6 @@ projects
 
 [reading list](reading_list.qmd)
 
-about
+[about me](about.qmd)
 
 </body>
